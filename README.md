@@ -18,7 +18,7 @@ I'm a hands-on software developer and student at UC Santa Cruz majoring in Techn
 - Scalable system design and API optimization
 
 ### 🚀 I’m Open To:
-- **Summer 2025 and Fall 2025 internships** (software engineering, QA, or ML-focused)
+- **Summer 2026 and Fall 2025 internships** (software engineering, QA, or ML-focused)
 - Startup collaboration or technical side projects
 - Learning from and contributing to open source
 
