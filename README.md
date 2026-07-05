@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lasia Koppaka
-I'm a software engineer and researcher at UC Santa Cruz majoring in Technology and Information Management with a minor in Computer Science (Class of 2027). I build production AI systems — agents, pipelines, and full-stack applications — at the intersection of applied AI, backend engineering, and data infrastructure.
+I'm a software engineer and researcher at UC Santa Cruz majoring in Technology and Information Management with a minor in Computer Science. I build production AI systems — agents, pipelines, and full-stack applications — at the intersection of applied AI, backend engineering, and data infrastructure.
 
 ### 💻 What I'm Currently Working On
 - 🤖 [PR Review Agent](https://github.com/lasiakoppaka/PR_Review_Agent): A 3-step multi-agent pipeline automating GitHub PR reviews using Groq's Llama 3.3 70B — processing live PR diffs in under 10 seconds
@@ -14,11 +14,6 @@ I'm a software engineer and researcher at UC Santa Cruz majoring in Technology a
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite, Pinecone
 - **DevOps & Testing:** Git/GitHub, GitHub Actions, Docker, Kubernetes, CI/CD, Pytest, TDD, AWS (EC2, S3, Lambda), Linux
 - **Frontend:** React, Next.js, TypeScript, React Router, Tailwind CSS
-
-### 🚀 I'm Open To
-- **Summer 2026 internships** in applied AI engineering, backend engineering, or ML infrastructure
-- Startup collaboration and early-stage founding team opportunities
-- Open source contributions in AI tooling and developer infrastructure
 
 ### 📫 How to Reach Me
 - Email: [lasiakoppaka@gmail.com](mailto:lasiakoppaka@gmail.com)
